@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.dashsoft.GMA" versionCode="7" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.dashsoft.GMA.DS" versionCode="7" version="1.0.0">
   <name>DashSoft</name>
   <description>DashSoft - Metro</description>
-  <author href="www.dashsoft.com" email="Dashsoft">    Dashsoft  </author>
+  <author href="www.dashsoft.com" email="Dashsoft">
+    Dashsoft
+  </author>
   <preference name="permissions" value="none" />
   <preference name="phonegap-version" value="3.4.0" />
   <preference name="orientation" value="default" />
