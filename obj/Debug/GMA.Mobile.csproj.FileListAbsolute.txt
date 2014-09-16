@@ -1,0 +1,5 @@
+D:\Work\GMA\GMA.Mobile\bin\GMA.Mobile.dll
+D:\Work\GMA\GMA.Mobile\bin\GMA.Mobile.pdb
+D:\Work\GMA\GMA.Mobile\obj\Debug\GMA.Mobile.dll
+D:\Work\GMA\GMA.Mobile\obj\Debug\GMA.Mobile.pdb
+D:\Work\GMA\GMA.Mobile\obj\Debug\GMA.Mobile.csprojResolveAssemblyReference.cache
