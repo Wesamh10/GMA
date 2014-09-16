@@ -1,0 +1,10 @@
+<ion-view title="{{menu.Name}}" >
+  <ion-nav-buttons side="left">
+    <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+  </ion-nav-buttons>
+  <ion-content class="has-header">
+    <ion-list>
+        <a ui-sref="{{menu.sref}}" class="item sub-menu" ng-repeat="menu in menu.Children">{{menu.Name}}</a>
+    </ion-list>
+  </ion-content>
+</ion-view>
